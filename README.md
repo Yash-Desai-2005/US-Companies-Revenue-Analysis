@@ -69,6 +69,18 @@ Matplotlib was used to create visualizations for:
 - Companies by Industry
 - Average Revenue by Industry
 
+### Top 10 Companies by Revenue
+
+![Top 10 Companies by Revenue](charts/top_10_revenue.png)
+
+### Companies by Industry
+
+![Companies by Industry](charts/companies_by_industry.png)
+
+### Industry-wise Average Revenue
+
+![Industry-wise Average Revenue](charts/industry_average_revenue.png)
+
 ## Project Workflow
 
 Web Scraping → Data Cleaning → Data Analysis → Data Visualization → Export
